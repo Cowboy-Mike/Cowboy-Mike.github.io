@@ -1,0 +1,20 @@
+# Site settings
+author: Mike
+title: Cowboy to Coding
+header-img: img/home-bg.png
+email: mike@thecowboymechanic.com
+copyright_name: Mike
+description: > # this means to ignore newlines until "baseurl:"
+  A huge career shift in the middle of the pandemic.
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  Cowboy-Mike
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
