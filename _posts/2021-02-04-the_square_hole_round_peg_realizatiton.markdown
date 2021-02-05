@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "The square hole round peg realizatiton"
-date:       2021-02-05 04:33:40 +0000
+title:      "The square hole round peg realization"
+date:       2021-02-04 23:33:41 -0500
 permalink:  the_square_hole_round_peg_realizatiton
 ---
 
